@@ -1,2 +1,2 @@
 # curso-alura-git
-Treinando comandos de git
+Treinando git e github e conhecendo melhor o github.
